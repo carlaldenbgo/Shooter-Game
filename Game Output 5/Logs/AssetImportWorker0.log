@@ -1,0 +1,393 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.985; Version 2004; 64bit' Language: 'en' Physical Memory: 16191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/carla/Documents/GitHub/ISCS-30.14-Game-Output-5/Game Output 5/Game Output 5
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50197
+Successfully changed project path to: C:/Users/carla/Documents/GitHub/ISCS-30.14-Game-Output-5/Game Output 5/Game Output 5
+C:/Users/carla/Documents/GitHub/ISCS-30.14-Game-Output-5/Game Output 5/Game Output 5
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/carla/Documents/GitHub/ISCS-30.14-Game-Output-5/Game Output 5/Game Output 5/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti with Max-Q Design (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5763
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003057 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.635 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001531 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.065 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1153 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.4 MB.
+System memory in use after: 63.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1603.
+Total: 2.443800 ms (FindLiveObjects: 0.212000 ms CreateObjectMapping: 0.041900 ms MarkObjects: 2.021500 ms  DeleteObjects: 0.166400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Models
+  artifactKey: Guid(0316a402fc2b44d4bbacc7c2ead25f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(0316a402fc2b44d4bbacc7c2ead25f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4912e29e36dedac837f46ab5697260') in 0.012167 seconds
+  Import took 0.014835 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1592.
+Total: 3.795800 ms (FindLiveObjects: 0.190200 ms CreateObjectMapping: 0.044000 ms MarkObjects: 3.377900 ms  DeleteObjects: 0.181900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.938430 seconds.
+  path: Assets/Models/Samurai
+  artifactKey: Guid(bfc5e47e4544f78489de3c56550c6ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Samurai using Guid(bfc5e47e4544f78489de3c56550c6ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1244202cfc9dba5a31e9422f64bc86') in 0.015421 seconds
+  Import took 0.018930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.671848 seconds.
+  path: Assets/Models/Samurai/Materials
+  artifactKey: Guid(31c408f174e437346a3be4687bb75a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Samurai/Materials using Guid(31c408f174e437346a3be4687bb75a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a3253f916910b357777a16fc008200') in 0.009941 seconds
+  Import took 0.012678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.734956 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Animations
+  artifactKey: Guid(b9a7525684252cf44a06de79640c67a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Animations using Guid(b9a7525684252cf44a06de79640c67a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eebef4cc61ba7cb832de3109e1c5ed0') in 0.010450 seconds
+  Import took 0.013073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055476 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Animations/AvatarMask.mask
+  artifactKey: Guid(e0402be4321aa2646a7af179c44591a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Animations/AvatarMask.mask using Guid(e0402be4321aa2646a7af179c44591a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02ec0a078901b31122e5e39c0bcd105') in 0.092753 seconds
+  Import took 0.095528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Animations/Die.fbx
+  artifactKey: Guid(d406f8f3cbe268f4e9d0234d45cca60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Animations/Die.fbx using Guid(d406f8f3cbe268f4e9d0234d45cca60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f9e72a9273a303c1a7d6f108e4b792') in 0.380702 seconds
+  Import took 0.384135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Animations/WalkLeft_Shoot_ar.fbx
+  artifactKey: Guid(34d1b8e01a0412f449dcefc77b05e27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Animations/WalkLeft_Shoot_ar.fbx using Guid(34d1b8e01a0412f449dcefc77b05e27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c76c5fd9365c5654eefa18b83b61fc0') in 0.107313 seconds
+  Import took 0.110470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Animations/WalkFront_Shoot_ar.fbx
+  artifactKey: Guid(e398e3aa9cdfcdc4ebd01a06e4c544ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Animations/WalkFront_Shoot_ar.fbx using Guid(e398e3aa9cdfcdc4ebd01a06e4c544ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd93efb4be72a7ace5341a757a24f218d') in 0.106342 seconds
+  Import took 0.109635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Animations/WalkBack_Shoot_ar.fbx
+  artifactKey: Guid(669b29b2139d8de4ca5447dd50e201af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Animations/WalkBack_Shoot_ar.fbx using Guid(669b29b2139d8de4ca5447dd50e201af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fcff62b30877fe4bdeb8c55105c295b') in 0.106407 seconds
+  Import took 0.109757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Animations/WalkRight_Shoot_ar.fbx
+  artifactKey: Guid(e6a236f5b06f9cb44ae1ca8b50fcd8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Animations/WalkRight_Shoot_ar.fbx using Guid(e6a236f5b06f9cb44ae1ca8b50fcd8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a039b2f6291afd0db32c57eff74898ae') in 0.108904 seconds
+  Import took 0.112025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.241943 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Animators
+  artifactKey: Guid(639c3ffab364e304e9b93bc7c83f975a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Animators using Guid(639c3ffab364e304e9b93bc7c83f975a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15cf01708ae9d6d602df6ff6698f903') in 0.009856 seconds
+  Import took 0.012525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.461482 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Materials
+  artifactKey: Guid(c1db60ad879da434bb5bb32f740d7a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Materials using Guid(c1db60ad879da434bb5bb32f740d7a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465974ab29966f4ceb5f948646881911') in 0.008245 seconds
+  Import took 0.011578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.432622 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Mesh
+  artifactKey: Guid(45de849c202011f4a9db9703f906f874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Mesh using Guid(45de849c202011f4a9db9703f906f874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a476b0284e65bdb1b721613f894cc0e2') in 0.011184 seconds
+  Import took 0.013810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022903 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Mesh/PBR_HP_Mesh.fbx
+  artifactKey: Guid(5ae220fa0f79ffe41b0102a618febf5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Mesh/PBR_HP_Mesh.fbx using Guid(5ae220fa0f79ffe41b0102a618febf5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008384dfef01057b064e26f5b6ec0907') in 0.081728 seconds
+  Import took 0.085367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Mesh/Stage.fbx
+  artifactKey: Guid(e531111ac2ce99b44812814430f75185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Mesh/Stage.fbx using Guid(e531111ac2ce99b44812814430f75185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efaeb5f351ea0b9d0a6112af192884d') in 0.028913 seconds
+  Import took 0.031998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.927425 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Prefabs
+  artifactKey: Guid(d6042bd1068196e4e985966cfa6f0891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Prefabs using Guid(d6042bd1068196e4e985966cfa6f0891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dca0403d4724a107c58ca5473f42fb1') in 0.010113 seconds
+  Import took 0.012623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054075 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Prefabs/HPCharacter.prefab
+  artifactKey: Guid(c98043d57e0190845b790d7b92990bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Prefabs/HPCharacter.prefab using Guid(c98043d57e0190845b790d7b92990bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44176b9f201d0c87625c95ec94d60c1') in 0.113940 seconds
+  Import took 0.118422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Prefabs/PBRCharacter.prefab
+  artifactKey: Guid(f432554f564e69242897607d34218939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Prefabs/PBRCharacter.prefab using Guid(f432554f564e69242897607d34218939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71058875ca60d72b90c5c476e35cff17') in 0.083197 seconds
+  Import took 0.089198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Models/SciFiWarriorPBRHPPolyart/Prefabs/PolyartCharacter.prefab
+  artifactKey: Guid(910177ec26b76c14996c2d53627a6def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SciFiWarriorPBRHPPolyart/Prefabs/PolyartCharacter.prefab using Guid(910177ec26b76c14996c2d53627a6def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44cf08363ec9564dc12e42342d493f91') in 0.085020 seconds
+  Import took 0.089770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.566913 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(7914538326d03e541ac992ef3ed74069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7914538326d03e541ac992ef3ed74069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd9013cdf1bd56d7da1e07cc5b9f149') in 0.011225 seconds
+  Import took 0.014487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.656875 seconds.
+  path: Assets/Samples
+  artifactKey: Guid(be3f766a8ad004346a1d95eec059724b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples using Guid(be3f766a8ad004346a1d95eec059724b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5843be0c158c3cebfeb74e314931eb') in 0.010724 seconds
+  Import took 0.013521 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001163 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 2.442800 ms (FindLiveObjects: 0.191800 ms CreateObjectMapping: 0.038000 ms MarkObjects: 2.122500 ms  DeleteObjects: 0.089100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.382934 seconds.
+  path: Assets/Standard Assets
+  artifactKey: Guid(3082e174b98c62345a899762c22e3947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets using Guid(3082e174b98c62345a899762c22e3947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca0d22009c868a220e16d0da0d0014f') in 0.010754 seconds
+  Import took 0.013573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071667 seconds.
+  path: Assets/Standard Assets/ParticleSystems
+  artifactKey: Guid(4d6ac5ed9d17bc44e8e4c7f94eaaff22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/ParticleSystems using Guid(4d6ac5ed9d17bc44e8e4c7f94eaaff22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ad4eefaba20d36e5da10b789feba94') in 0.011359 seconds
+  Import took 0.014263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.151038 seconds.
+  path: Assets/Standard Assets/ParticleSystems/Materials
+  artifactKey: Guid(a38498d679ca0214da700b7997fda352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/ParticleSystems/Materials using Guid(a38498d679ca0214da700b7997fda352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1865c2dd92dbde814f2722c5116bbd') in 0.003873 seconds
+  Import took 0.006352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.406868 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(116accef97036bc49870e77fab5b36ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(116accef97036bc49870e77fab5b36ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca6b769e649e151f87e124a2502ada42') in 0.012141 seconds
+  Import took 0.014673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.799746 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(e02ca518b21ba634896b0cbe3334cffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(e02ca518b21ba634896b0cbe3334cffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1365d015daf85ce6e5813237add870') in 0.010636 seconds
+  Import took 0.013472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.968789 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(19a92f5ad9483704abb863fa3eb6dd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(19a92f5ad9483704abb863fa3eb6dd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0f392fb2be9668e38ae47442544102') in 0.004348 seconds
+  Import took 0.007383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000711 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(19a92f5ad9483704abb863fa3eb6dd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(19a92f5ad9483704abb863fa3eb6dd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0f392fb2be9668e38ae47442544102') in 0.003727 seconds
+  Import took 0.006417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.524417 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(1d525de5080c320438d1b43cbdef45fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(1d525de5080c320438d1b43cbdef45fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e91a759a5eed2630fa1a7a623d9e1a') in 0.003911 seconds
+  Import took 0.006746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025573 seconds.
+  path: Assets/Materials/Enemy.mat
+  artifactKey: Guid(1a0ced675e23e054a872fa65224864a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Enemy.mat using Guid(1a0ced675e23e054a872fa65224864a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2637c242ae43e172dc80db02cdb19dd') in 0.090093 seconds
+  Import took 0.093699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.339931 seconds.
+  path: Assets/Standard Assets/ParticleSystems/Textures
+  artifactKey: Guid(785affd85a7f90f4a8c4f4e4a51c6362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/ParticleSystems/Textures using Guid(785affd85a7f90f4a8c4f4e4a51c6362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701ded0f3557bcb4222cdadfd4547e93') in 0.003501 seconds
+  Import took 0.005940 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000877 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.0 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 2.361200 ms (FindLiveObjects: 0.195600 ms CreateObjectMapping: 0.038400 ms MarkObjects: 2.037900 ms  DeleteObjects: 0.088000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
